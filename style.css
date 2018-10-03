@@ -1,0 +1,61 @@
+header{
+    background-image: url(Images/control.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
+h1 {
+  font-size: 50px;
+  color: red;
+  text-align: center;
+}
+h2 {
+  font-size: 50px;
+  color: red;
+  text-align: center;
+}
+nav{
+  background-color: blue;
+  border-bottom-style: solid;
+  border-bottom-color: white;
+}
+
+h3:hover{
+  background-color: green;
+}
+
+}
+
+img{
+  width: 100%;
+}
+
+.section{
+  text-align: center;
+}
+
+a:visited {
+    color: black;
+}
+
+h4{
+  font-size: 100px;
+  color: black;
+  border-radius: 100%;
+  border-style: solid;
+}
+
+.col-4 img{
+  width: 300px;
+  height: auto;
+}
+
+c{
+  background-color: grey;
+  background-size: cover;
+}
+
+p{
+  text-align: center;
+}
